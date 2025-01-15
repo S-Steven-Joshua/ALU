@@ -59,7 +59,7 @@ This project implements a 10-bit Arithmetic Logic Unit (ALU) in Verilog HDL. The
 - Knowledge of digital design concepts
 
 ## Testing
-The ALU can be tested using the provided testbench or through manual testing in a simulator.
+The ALU can be tested using the provided testbench or through manual testing in a simulator (ex. Xilinx).
 
 ## Contributors
 - Steven Joshua
