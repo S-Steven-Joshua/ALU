@@ -58,17 +58,6 @@ This project implements a 10-bit Arithmetic Logic Unit (ALU) in Verilog HDL. The
 - Basic understanding of Verilog HDL
 - Knowledge of digital design concepts
 
-### Installation
-1. Clone the repository:
-bash
-git clone https://github.com/yourusername/10bit-alu.git
-cd 10bit-alu
-
-
-2. Open Vivado and create a new project
-3. Add the source files to your project
-4. Run synthesis and implementation
-
 ## Testing
 The ALU can be tested using the provided testbench or through manual testing in a simulator.
 
@@ -77,7 +66,7 @@ The ALU can be tested using the provided testbench or through manual testing in 
 - Amritha S
 - SSV Mridula
 - Advaith Rajesh
-- 
+
 ## Project Status
 - Last Updated: January 15, 2025
 - Status: Complete
