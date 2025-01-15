@@ -52,6 +52,7 @@ This project implements a 10-bit Arithmetic Logic Unit (ALU) in Verilog HDL. The
 - Shift operations are implemented using Verilog shift operators
 
 ## Getting Started
+![schematic_page-0001](https://github.com/user-attachments/assets/6e200092-644b-4e67-981d-f12ac828cc5b)
 
 ### Prerequisites
 - Xilinx Vivado (2020.2 or later recommended)
