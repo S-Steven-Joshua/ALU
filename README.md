@@ -68,8 +68,5 @@ The ALU can be tested using the provided testbench or through manual testing in 
 - SSV Mridula
 - Advaith Rajesh
 
-## Project Status
-- Last Updated: January 15, 2025
-- Status: Complete
-- Version: 1.0.0
+
 
