@@ -1,0 +1,11 @@
+Qflow project preparation output log Wed Jul  2 17:12:44 2025
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu035
+
+No actions specified on command line;
+creating qflow script file /home/kor-tac/Desktop/physical/alu/qflow_exec.sh only.
+Uncomment lines in this file and source the file to run the flow.

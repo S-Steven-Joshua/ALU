@@ -1,0 +1,43 @@
+Qflow DRC logfile created on Wed Jul 2 05:23:38 PM IST 2025
+magic -dnull -noconsole  /home/kor-tac/Desktop/physical/alu/layout/run_drc_aluuu.tcl
+
+Magic 8.3 revision 105 - Compiled on Mon, 06 Dec 2021 22:32:27 +0200.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+"/usr/local/share/qflow/tech/osu018/osu018.tech" isn't a valid tech option.  Type ":tech help" for help.
+Input style lambda=0.10(p): scaleFactor=10, multiplier=1
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Loading "/home/kor-tac/Desktop/physical/alu/layout/run_drc_aluuu.tcl" from command line.
+Reading LEF data from file /usr/local/share/qflow/tech/osu035/osu035_stdcells.lef.
+This action cannot be undone.
+LEF read, Line 16 (Message): Unknown keyword "OBS" in LEF file; ignoring.
+LEF read, Line 17 (Message): Unknown keyword "PIN" in LEF file; ignoring.
+LEF read, Line 107 (Warning): Cut size for magic type "metal1" (4 x 4) does not match LEF/DEF
+LEF read, Line 107 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read, Line 116 (Warning): Cut size for magic type "metal2" (4 x 4) does not match LEF/DEF
+LEF read, Line 116 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read, Line 125 (Warning): Cut size for magic type "metal3" (4 x 4) does not match LEF/DEF
+LEF read, Line 125 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read, Line 143 (Warning): Cut size for magic type "(null)" (4 x 4) does not match LEF/DEF
+LEF read, Line 143 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read, Line 159 (Warning): Cut size for magic type "(null)" (4 x 4) does not match LEF/DEF
+LEF read, Line 159 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read, Line 175 (Warning): Cut size for magic type "(null)" (4 x 4) does not match LEF/DEF
+LEF read, Line 175 (Warning): Via cut size (8 x 8).  Magic layer cut size will be used!
+LEF read: Processed 3179 lines.
+LEF Read: encountered 12 warnings total.
+aluuu: 10000 rects
+aluuu: 20000 rects
+aluuu: 30000 rects
+aluuu: 40000 rects
+aluuu: 50000 rects
+Processing timestamp mismatches: FILL, BUFX2, AND2X2, NOR2X1, OR2X2, NAND3X1, INVX1, OAI21X1, NOR3X1, OAI22X1, NAND2X1, AOI21X1, AOI22X1, XNOR2X1.
+drc = 0
+DRC checking script ended on Wed Jul 2 05:23:39 PM IST 2025
